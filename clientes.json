@@ -5,4 +5,9 @@ JSON
     "status": "ativo",
     "data_vencimento": "2026-12-31"
   }
+  {
+    "email": "marcio_jardim@yahoo.com.br",
+    "status": "ativo",
+    "data_vencimento": "2026-05-26"
+  }
 ]
