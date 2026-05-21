@@ -1,1 +1,8 @@
-
+JSON
+[
+  {
+    "email": "admin@clinica.com",
+    "status": "ativo",
+    "data_vencimento": "2026-12-31"
+  }
+]
