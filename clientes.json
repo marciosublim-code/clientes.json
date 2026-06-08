@@ -3,20 +3,5 @@
         "e-mail":"admin@clinica.com",
         "status":"ativo",
         "dados_vencimento":"2026-06-07"
-    },          
-    {
-        "e-mail":"marcio_jardim@yahoo.com.br",
-        "status":"ativo",
-        "dados_vencimento":"2026-05-25"
-    },          
-    {
-        "e-mail":"mid-ines@hotmail.com",
-        "status":"ativo",
-        "dados_vencimento":"2030-01-31"
-    },         
-    {
-        "e-mail":"midinespsi@gmail.com",
-        "status":"ativo",
-        "dados_vencimento":"2030-01-31"
-    }            
+    }
 ]
