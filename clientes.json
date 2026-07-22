@@ -3,10 +3,5 @@
     "email_hash": "084ecde997b1f8982611b38032026f886bbbe43a0a06b6cde9bc4675c2eb4cc6",
     "vencimento": "2026-06-08",
     "status": "ativo"
-  },
-  {
-    "email_hash": "d7bd8240b4ab5c1f65c5c3969babde97dd6b85013e532bb6a0d27b76de4ad1ee",
-    "vencimento": "2030-06-08",
-    "status": "ativo"
   }
 ]
