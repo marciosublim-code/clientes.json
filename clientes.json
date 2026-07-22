@@ -3,5 +3,10 @@
     "chave_email_hash": "a09469b159d389b8572cbb607afa5e3ca91472bd99007631803de46b80151137",
     "vencimento": "2026-06-30",
     "status": "ativo"
+  },
+  {
+    "cpf_email_hash": "1fdd5ea8a5c510a2124257226551f0f0154c881ecb6eb6c5ce96cd4f109fc5fe",
+    "vencimento": "2030-06-08",
+    "status": "ativo"
   }
 ]
