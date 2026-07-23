@@ -5,8 +5,8 @@
     "status": "ativo"
   },
   {
-    "cpf_email_hash": "1fdd5ea8a5c510a2124257226551f0f0154c881ecb6eb6c5ce96cd4f109fc5fe",
-    "vencimento": "2030-06-08",
+    "chave_email_hash": "e50daed139b69b73933fa3498545746fc179ce7cc58613fdb94dd06ba02d25d1",
+    "vencimento": "2030-06-30",
     "status": "ativo"
   }
 ]
