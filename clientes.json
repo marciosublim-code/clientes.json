@@ -8,13 +8,13 @@
   {
     "chave_email_hash": "66ef1678e7bdbcd4f200312ffb0e661b3f479aa102a36cf4c9fdba6369c5d8a8",
     "vencimento": "2030-06-30",
-    "status": "ativo"
+    "status": "ativo",
     "addons": ["hipnoterapia"]
   },
   {
     "chave_email_hash": "a003511c8589ea9832d821684015a4054c7576b25421eb434cefc7cb8a3a3485",
     "vencimento": "2030-06-30",
-    "status": "ativo"
+    "status": "ativo",
     "addons": ["hipnoterapia"]
-  },
+  }
 ]
